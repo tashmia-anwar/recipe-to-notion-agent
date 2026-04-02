@@ -46,3 +46,12 @@ pip install -r requirements.txt
 ## Notes
 Built with the assistance of Cursor and Claude as a hands-on learning 
 project exploring agentic AI and API integrations.
+
+#What I learned:
+- How to structure and use prompts to generate working Python scripts
+- How APIs (like Notion’s) can be used to automate real tasks
+- How to troubleshoot and iterate on AI-generated code
+
+#Next steps for me:
+- Learn more about Python scripting and data handling
+- Understand how the generated code works under the hood
