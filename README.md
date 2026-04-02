@@ -21,7 +21,7 @@ link back to the source.
 2. Invite the integration to your recipes database via **Share**
 3. Make sure your database has these properties:
    - **Recipe Name** — Title
-   - **Meal Type** — Select or multi-select: `lunch`, `dinner`, `breakfast`, `snack`, `dessert`, `appetizer`, `salad`
+   - **Meal Type** — Select or multi-select: `breakfast`, `lunch`, `dinner`, `snack`, `appetizer`, `dessert`, `salad`
    - **Cuisine** — Select or multi-select: `Italian`, `Mexican`, `Chinese`, `Indian`, `Japanese`, `Thai`, `Mediterranean`, `American`, `French`, `Greek`, `Middle Eastern`, `British`, `Argentinian`
 
 ## Configure
