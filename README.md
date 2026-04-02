@@ -31,3 +31,7 @@ Omit the URL to be prompted. Use `python -m recipe_to_notion --no-open "URL"` to
 ## Requirements
 
 Python 3.10+ and dependencies in `requirements.txt` (install with `pip install -r requirements.txt`).
+
+## Notes
+Built with the assistance of Cursor and Claude as a hands-on learning project 
+exploring agentic AI and API integrations.
