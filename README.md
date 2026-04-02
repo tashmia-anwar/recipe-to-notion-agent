@@ -52,6 +52,6 @@ project exploring agentic AI and API integrations.
 - How APIs (like Notion’s) can be used to automate real tasks
 - How to troubleshoot and iterate on AI-generated code
 
-#Next steps for me:
+**Next steps for me:**
 - Learn more about Python scripting and data handling
 - Understand how the generated code works under the hood
